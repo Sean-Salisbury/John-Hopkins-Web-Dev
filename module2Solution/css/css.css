@@ -24,13 +24,26 @@ div.title
     position: relative;
     left: 60%;
     width: 40%;
-    background-color: #c13f3f;
     border: solid black;
     border-width:0px 0px 1px 1px;
     padding: 1%;
     text-align: center;
     font-size: 1.25em;
 }
+
+#chickenTitleSection
+{
+    background-color: #c6af15;
+}
+#sushiTitleSection
+{
+    background-color: #5f15c6;
+}
+#beefTitleSection
+{
+    background-color: #7e3636;
+}
+
 
 div.text
 {
